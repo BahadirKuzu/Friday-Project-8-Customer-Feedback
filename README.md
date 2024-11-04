@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Friday Project 8: Customer Feedback Application
 
 This is a simple Python application that allows customers to submit feedback through a graphical user interface (GUI). The feedback data, including the customer's name, email, and message, is stored in an SQLite database. Additionally, the application includes a password-protected feature to retrieve all feedback entries in the console.
@@ -64,3 +65,6 @@ This is a simple Python application that allows customers to submit feedback thr
 ## License
 
 This project is licensed under the MIT License.
+=======
+# Friday-Project-8-Customer-Feedback
+>>>>>>> 0456c2753359079c4a5510217f3e180cee7b193b
